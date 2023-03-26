@@ -63,18 +63,7 @@ body {
 
 /*projects*/
 
-.project-item {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000;
-}
 
-.project-list {
-    padding: 0 0 0 14px;
-    margin: 0;
-}
 
 .projects-container {
     margin-bottom: 48px;
